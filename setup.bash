@@ -17,3 +17,5 @@ brew install visual-studio-code # Microsoft IDE
 brew install microsoft-edge # Microsoft browser
 
 brew install --cask docker # Docker Desktop
+
+brew install tmux
