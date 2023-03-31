@@ -18,3 +18,4 @@ brew install tmux # terminal multiplexer
 brew install golang # go lang environment
 
 brew install ffmpeg # good media editing toolkit
+brew install the_silver_searcher # the `ag` for better search
