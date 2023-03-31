@@ -14,6 +14,7 @@ brew install pingmenu # good indicator of network ping
 brew install visual-studio-code # Microsoft IDE
 brew install microsoft-edge # Microsoft browser
 brew install --cask docker # Docker Desktop
-brew install tmux
+brew install tmux # terminal multiplexer
+brew install golang # go lang environment
 
-brew install ffmpeg
+brew install ffmpeg # good media editing toolkit
