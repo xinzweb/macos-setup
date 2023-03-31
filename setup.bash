@@ -15,3 +15,5 @@ brew install pingmenu # good indicator of network ping
 
 brew install visual-studio-code # Microsoft IDE
 brew install microsoft-edge # Microsoft browser
+
+brew install --cask docker # Docker Desktop
