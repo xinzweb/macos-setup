@@ -8,7 +8,7 @@ set -x
 
 brew install rectangle # managing windows
 brew install iterm2 # much better terminal
-brew install menumeters # good indicator of resource utilizations
+brew install stats# good menu indicator of resource utilizations
 brew install pingmenu # good indicator of network ping
 
 brew install visual-studio-code # Microsoft IDE
